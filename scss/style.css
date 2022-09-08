@@ -213,11 +213,13 @@ footer img {
     color: black;
     border-radius: 0px;
   }
+
   .boxes {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, 1fr);
   }
+
   .user {
     display: flex;
     flex-direction: column;
@@ -236,6 +238,7 @@ footer img {
   .user h5 {
     margin-bottom: 2rem;
   }
+
   .containerimg {
     display: flex;
     flex-wrap: wrap;
